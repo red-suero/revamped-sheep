@@ -9,3 +9,7 @@ HOW TO START THIS PROJECT: Open "project.greenfoot".
 AUTHORS: Matthew Beech, Rogelio Cortez Cuevas
 
 USER INSTRUCTIONS:
+To run program, right-click on RoomOne().
+Then, click on "new RoomOne(Player p)".
+Finally, type in "new Player()" and press OK.
+Have fun!
