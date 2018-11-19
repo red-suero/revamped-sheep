@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=GridManager
+comment1.params=w\ o\ gridX\ gridY
+comment1.target=void\ addObject(greenfoot.World,\ greenfoot.Actor,\ int,\ int)
+comment10.params=newInterval
+comment10.target=void\ setInterval(int)
+comment11.params=
+comment11.target=int\ interval()
+comment12.params=aX\ aY\ bX\ bY
+comment12.target=boolean\ sameCoordinates(int,\ int,\ int,\ int)
+comment2.params=w
+comment2.target=void\ drawGrid(greenfoot.World)
+comment3.params=w\ c
+comment3.target=void\ addDots(greenfoot.World,\ int)
+comment4.params=w
+comment4.target=int\ getLeftBound(greenfoot.World)
+comment5.params=w
+comment5.target=int\ getUpperBound(greenfoot.World)
+comment6.params=w
+comment6.target=int\ getRightBound(greenfoot.World)
+comment7.params=w
+comment7.target=int\ getLowerBound(greenfoot.World)
+comment8.params=x
+comment8.target=int\ getGridX(int)
+comment9.params=y
+comment9.target=int\ getGridY(int)
+numComments=13
